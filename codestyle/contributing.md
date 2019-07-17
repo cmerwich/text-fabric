@@ -34,10 +34,10 @@ Text-Fabric has parts that deal with long tables of data, especially the core pa
 Here we adopt a plain, iterative style for performance reasons.
 
 Parts that face the user directly, e.g. the top-level parts of an API are suitable for
-Object Oriented programming.
+Object Oriented Programming.
 We refrain from adding an OOP flavour all the way down to the smallest particles of data.
 
-However, in many cases we prefer Functional techniques to organise functionality:
+However, in many cases we prefer functional techniques to organise functionality:
 taking functions as arguments and delivering functions as results of other functions.
 
 In the Javascript parts we particularly are function-oriented.
