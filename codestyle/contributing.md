@@ -13,7 +13,7 @@ Here is a quick overview of the
   of TF:
   [TF search code](https://github.com/annotation/text-fabric/tree/master/tf/search)
 * [Writing system functions](https://annotation.github.io/text-fabric/Writing/Transcription/)
-  to deal with complext writing systems and transcriptions:
+  to deal with complex writing systems and transcriptions:
   [TF writing code](https://github.com/annotation/text-fabric/tree/master/tf/writing)
 * [Conversion functions](https://annotation.github.io/text-fabric/Create/Convert/)
   to convert to and from the Text-Fabric format:
